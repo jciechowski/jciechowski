@@ -1,4 +1,8 @@
 ### Hi there 👋
+Currently fascinated by F#  
+Blogger @ [blog.ciechowski.net](blog.ciechowski.net/)  
+Twitter lurker @ [k_ciechowski](https://twitter.com/k_ciechowski)
+
 
 <!--
 **jciechowski/jciechowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
